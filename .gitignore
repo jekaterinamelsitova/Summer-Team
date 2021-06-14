@@ -13,3 +13,9 @@ out/
 .classpath
 .project
 .settings/
+
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
